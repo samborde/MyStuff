@@ -90,21 +90,4 @@
 
 </body>
 
-</html>
-
-
-				
-		
-		
-		<!--
-		
-		<li><A HREF="http://www.durgajobs.com/walkins.html" title="http://www.durgajobs.com/walkins.html" Target="_blank">Durga Walkins</A></li>
-		<br> </br>
-		
-		<li><A HREF="http://www.durgajobs.com/freshersjobs.html" title="http://www.durgajobs.com/freshersjobs.html" Target="_blank">Durga Jobs For Freshers</A></li>
-		<br> </br>
-		
-		<li><A HREF="http://www.durgajobs.com/bankjobs.html" title="http://www.durgajobs.com/bankjobs.html" Target="_blank">Durga Bank Jobs</A></li>
-		<br> </br>
-		
-		-->
+</html>		
